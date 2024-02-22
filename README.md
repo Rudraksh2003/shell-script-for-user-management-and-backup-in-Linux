@@ -3,10 +3,10 @@
 The project involves creating a shell script for user management and backup in a Linux environment. The primary goal is to automate user management tasks and implement a secure backup process. The project is designed to enhance efficiency, provide a user-friendly command-line interface, and ensure security and portability across different Linux distributions.
 
 Tools Required:
-Linux OS (Ubuntu)
-Bash Shell
-Git and GitHub
-Text Editor (Vim)
+Linux OS (Ubuntu),
+Bash Shell,
+Git and GitHub,
+Text Editor (Vim).
 
 Project Components:
 
