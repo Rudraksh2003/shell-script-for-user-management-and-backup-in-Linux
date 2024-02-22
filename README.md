@@ -34,10 +34,17 @@ Ensures that main scripts run with appropriate permissions to prevent unauthoriz
 
 Functional Requirements:
 User Management: Add, delete, and modify user accounts.
+
 Group Management: Create and delete groups, add users to groups.
+
 Backup: Compress and archive a specified directory.
+
 User-friendly CLI with clear options and usage.
+
 Non-Functional Requirements:
+
 Performance: Swift and efficient execution of tasks.
+
 Security: Scripts run with appropriate permissions.
+
 Portability: Executable on different Linux distributions without significant modification.
